@@ -1,7 +1,10 @@
 runtime: php72
 
 env_variables:
-   APP_KEY: base64:qG1BqqSutOCxPRwzCARjRgg/2OCPhYlaax8WQjD9Tlo=
+   APP_KEY: base64:9W/oCFTEYWggU+frooeU8meON1tCM3YmGOCKC2qyR5Q=
+   APP_NAME: Asif's WebApp
+   APP_ENV: local
+   APP_DEBUG: true
    APP_STORAGE: /tmp
    CACHE_DRIVER: database
    SESSION_DRIVER: database
