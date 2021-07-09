@@ -79,5 +79,9 @@ header {
 </style>
 <div class="wrapper">
   <h3 data-text="Coming soon...">Coming soon...</h3>
+  <br>
+  <br>
+  <br>
+  <p>This is a test WebApp</p>
  </div>
 @endsection
